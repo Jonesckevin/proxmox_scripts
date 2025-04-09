@@ -1,4 +1,4 @@
-<!--🛑 New scripts must first be submitted to [ProxmoxVED](https://github.com/community-scripts/ProxmoxVED) for testing.
+<!--🛑 New scripts must first be submitted to [ProxmoxVED](https://github.com/Jonesckevin/proxmox_scriptsD) for testing.
 PRs for new scripts that skip this process will be closed. -->  
 
 ## ✍️ Description  
