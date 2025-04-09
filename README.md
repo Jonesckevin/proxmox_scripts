@@ -2,7 +2,6 @@
 <!--Add a Code Block with command line-->
 <pre>
 <code>
-# Clone the repository
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/ct/docker.sh)"
 </code>
 </pre>
