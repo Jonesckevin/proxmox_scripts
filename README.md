@@ -2,7 +2,7 @@
 <!--Add a Code Block with command line-->
 <pre>
 <code>
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/ct/docker.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_scripts/main/ct/docker.sh)"
 </code>
 </pre>
 <p align="center">
