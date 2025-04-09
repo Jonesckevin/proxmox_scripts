@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Mafl"
 var_tags="dashboard"
-var_cpu="2"
-var_ram="2048"
+var_cpu=""
+var_ram=""
 var_disk="6"
 var_os="debian"
 var_version="12"

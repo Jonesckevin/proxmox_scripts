@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="UrBackup Server"
 var_tags="web"
-var_cpu="1"
-var_ram="1024"
+var_cpu=""
+var_ram=""
 var_disk="16"
 var_os="debian"
 var_version="12"

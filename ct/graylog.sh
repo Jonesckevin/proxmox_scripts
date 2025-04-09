@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Graylog"
 TAGS="logging"
-var_cpu="2"
-var_ram="8192"
+var_cpu=""
+var_ram=""
 var_disk="30"
 var_os="debian"
 var_version="12"

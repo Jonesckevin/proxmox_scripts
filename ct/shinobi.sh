@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Shinobi"
 var_tags="nvr"
-var_cpu="2"
-var_ram="2048"
+var_cpu=""
+var_ram=""
 var_disk="8"
 var_os="ubuntu"
 var_version="22.04"

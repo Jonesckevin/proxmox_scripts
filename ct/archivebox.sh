@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="ArchiveBox"
 var_tags="archive;bookmark"
-var_cpu="2"
-var_ram="1024"
+var_cpu=""
+var_ram=""
 var_disk="8"
 var_os="debian"
 var_version="12"

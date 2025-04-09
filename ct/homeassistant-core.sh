@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Home Assistant-Core"
 var_tags="automation;smarthome"
-var_cpu="2"
-var_ram="2048"
+var_cpu=""
+var_ram=""
 var_disk="10"
 var_os="ubuntu"
 var_version="24.10"

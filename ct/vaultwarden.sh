@@ -8,7 +8,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 APP="Vaultwarden"
 var_tags="password-manager"
 var_cpu="4"
-var_ram="6144"
+var_ram=""
 var_disk="6"
 var_os="debian"
 var_version="12"

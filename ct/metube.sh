@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="MeTube"
 var_tags="media;youtube"
-var_cpu="1"
-var_ram="1024"
+var_cpu=""
+var_ram=""
 var_disk="10"
 var_os="debian"
 var_version="12"

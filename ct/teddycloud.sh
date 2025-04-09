@@ -7,9 +7,9 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="TeddyCloud"
 var_tags="media"
-var_cpu="2"
+var_cpu=""
 var_disk="8"
-var_ram="1024"
+var_ram=""
 var_os="debian"
 var_version="12"
 

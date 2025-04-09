@@ -8,7 +8,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 APP="Ollama"
 var_tags="ai"
 var_cpu="4"
-var_ram="4096"
+var_ram=""
 var_disk="24"
 var_os="ubuntu"
 var_version="22.04"

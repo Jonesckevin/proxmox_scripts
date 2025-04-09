@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Owncast"
 var_tags="broadcasting"
-var_cpu="2"
-var_ram="2048"
+var_cpu=""
+var_ram=""
 var_disk="2"
 var_os="debian"
 var_version="12"

@@ -8,7 +8,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 APP="Tandoor"
 var_tags="recipes"
 var_cpu="4"
-var_ram="4096"
+var_ram=""
 var_disk="10"
 var_os="debian"
 var_version="12"

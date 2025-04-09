@@ -7,9 +7,9 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Silverbullet"
 var_tags="notes"
-var_cpu="1"
+var_cpu=""
 var_disk="2"
-var_ram="512"
+var_ram=""
 var_os="debian"
 var_version="12"
 

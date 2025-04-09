@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="NPMplus"
 var_tags="proxy;nginx"
-var_cpu="1"
-var_ram="512"
+var_cpu=""
+var_ram=""
 var_disk="3"
 var_os="alpine"
 var_version="3.21"

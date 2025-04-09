@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="GoMFT"
 var_tags="backup"
-var_cpu="1"
-var_ram="512"
+var_cpu=""
+var_ram=""
 var_disk="4"
 var_os="debian"
 var_version="12"

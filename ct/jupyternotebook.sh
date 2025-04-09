@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="JupyterNotebook"
 var_tags="ai;dev-tools"
-var_cpu="2"
-var_ram="2048"
+var_cpu=""
+var_ram=""
 var_disk="4"
 var_os="ubuntu"
 var_version="24.04"

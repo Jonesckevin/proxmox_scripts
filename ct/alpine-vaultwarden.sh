@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Alpine-Vaultwarden"
 var_tags="alpine;vault"
-var_cpu="1"
-var_ram="256"
+var_cpu=""
+var_ram=""
 var_disk="0.5"
 var_os="alpine"
 var_version="3.21"

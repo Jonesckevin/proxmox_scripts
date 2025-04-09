@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Apache-CouchDB"
 var_tags="database"
-var_cpu="2"
-var_ram="4096"
+var_cpu=""
+var_ram=""
 var_disk="10"
 var_os="debian"
 var_version="12"

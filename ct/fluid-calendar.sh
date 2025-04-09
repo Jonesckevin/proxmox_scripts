@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="fluid-calendar"
 var_tags="calendar,tasks"
-var_cpu="3"
-var_ram="4096"
+var_cpu=""
+var_ram=""
 var_disk="7"
 var_os="debian"
 var_version="12"

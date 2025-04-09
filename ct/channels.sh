@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Channels"
 var_tags="dvr"
-var_cpu="2"
-var_ram="1024"
+var_cpu=""
+var_ram=""
 var_disk="8"
 var_os="debian"
 var_version="12"

@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Paperless-GPT"
 var_tags="os"
-var_cpu="3"
-var_ram="2048"
+var_cpu=""
+var_ram=""
 var_disk="7"
 var_os="debian"
 var_version="12"

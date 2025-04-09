@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Apache-Tika"
 var_tags="document"
-var_cpu="1"
-var_ram="2048"
+var_cpu=""
+var_ram=""
 var_disk="10"
 var_os="debian"
 var_version="12"

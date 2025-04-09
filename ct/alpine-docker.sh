@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Alpine-Docker"
 var_tags="docker;alpine"
-var_cpu="1"
-var_ram="1024"
+var_cpu=""
+var_ram=""
 var_disk="2"
 var_os="alpine"
 var_version="3.21"

@@ -4,8 +4,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Grist"
 var_tags="database;spreadsheet"
-var_cpu="2"
-var_ram="3072"
+var_cpu=""
+var_ram=""
 var_disk="6"
 var_os="debian"
 var_version="12"

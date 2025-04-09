@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="yt-dlp-webui"
 var_tags="downloads;yt-dlp"
-var_cpu="2"
-var_ram="1024"
+var_cpu=""
+var_ram=""
 var_disk="4"
 var_os="debian"
 var_version="12"

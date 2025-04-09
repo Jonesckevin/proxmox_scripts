@@ -7,8 +7,8 @@ source <(curl -fsSL https://raw.githubusercontent.com/Jonesckevin/proxmox_script
 
 APP="Kometa"
 TAGS="media;streaming"
-var_cpu="2"
-var_ram="4096"
+var_cpu=""
+var_ram=""
 var_disk="8"
 var_os="debian"
 var_version="12"
